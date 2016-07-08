@@ -11,4 +11,4 @@ What I do here is not going to effect 'master' repository.
 
 Just a README file on my readme-edits
 
-I'm on day 2 of #100DaysOfCode and a camper at FreeCodeCamp.
+I'm on day 3 of #100DaysOfCode and a camper at FreeCodeCamp.
